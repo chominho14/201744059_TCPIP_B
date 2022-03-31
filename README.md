@@ -4,4 +4,4 @@
 
 ## 5주차 실습화면 (2022-03-31)
 
-<img width="500" height="500" src="./pic/5주차실습화면.png"></img>
+<img width="500" height="500" src="/pic/5주차실습화면.png"></img>
